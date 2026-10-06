@@ -6,17 +6,29 @@ I'm passionate about turning data into clear insights and meaningful visualizati
 
 🛠️ Skills & Tools
 
+Data Analysi
+
 * Excel
 * Power BI
+
+Data Preparation
+
 * Data Cleaning
-* Data Analysis
+* Data Validation
+* Data Transformation
+
+Data Visualization
+
+* Power BI Dashboards
+* Interactive Reports
 * Data Visualization
 
-🌱 Currently Learning
+Currently Learning
 
 * Python
 * SQL
 * Tableau
+
 
 📂 Featured Projects
 
