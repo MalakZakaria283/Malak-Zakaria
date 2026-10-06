@@ -24,6 +24,6 @@ Coming soon 🚀
 
 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/malakzakaria
+* 💼 [LinkedIn](https://www.linkedin.com/in/malakzakaria/)
+* 📧 [Email](mailto:malakzakaria283@gmail.com)
 
-* Email: malakzakaria283@gmail.com
