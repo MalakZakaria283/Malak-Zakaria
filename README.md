@@ -6,7 +6,7 @@ I'm passionate about turning data into clear insights and meaningful visualizati
 
 🛠️ Skills & Tools
 
-Data Analysi
+Data Analysis
 
 * Excel
 * Power BI
